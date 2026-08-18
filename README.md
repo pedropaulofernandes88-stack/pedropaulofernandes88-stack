@@ -3,7 +3,7 @@
 Trabalho na fronteira entre **saúde coletiva** e **engenharia de dados**: pegar
 informação que já é pública por lei e torná-la utilizável na prática.
 
-Diretor de Tecnologia da Informação na **Prefeitura Municipal de Penápolis (SP)**.
+Diretor de Tecnologia da Informação no **setor público (SP)**.
 Mestrando em **Saúde Coletiva** no IAMSPE e pós-graduando em **Inteligência
 Artificial e Ciência de Dados em Saúde** no Hospital Sírio-Libanês.
 
