@@ -26,6 +26,7 @@ IA — com atenção especial a proveniência, privacidade, incerteza e limites 
 | Projeto | O que entrega | Principais evidências |
 | --- | --- | --- |
 | [**Saúde em Dado**](https://github.com/pedropaulofernandes88-stack/saude-publica-br) | Microdados do SUS transformados em indicadores consultáveis por município | API pública, Parquet, servidor MCP, DOI e pipeline reproduzível |
+| [**Fármaco Brasil**](https://github.com/pedropaulofernandes88-stack/farmaco-brasil) | Mapa auditável de medicamentos, compras públicas, oferta no SUS e acesso territorial por município | CNES, BNAFAR/Hórus, Farmácia Popular, IBGE, BPS, CATMAT, CI e metodologia reproduzível |
 | [**Nexo Vital**](https://github.com/pedropaulofernandes88-stack/nexo-vital) | Atlas global de saúde, desenvolvimento e medicamentos | Contratos de dados, validação fora da amostra, auditoria e dashboard |
 | [**ICU Risk Lab**](https://github.com/pedropaulofernandes88-stack/icu-risk-lab) | Avaliação reprodutível de risco de mortalidade em UTI | Calibração, bootstrap, subgrupos, drift e validação independente |
 | [**Clinical RAG Eval**](https://github.com/pedropaulofernandes88-stack/clinical-rag-eval) | Laboratório de recuperação, citação e abstinência para RAG clínico | Casos dourados, métricas, barreira de segurança, testes e CI |
